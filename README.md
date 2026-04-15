@@ -140,11 +140,6 @@ zomato-data-analysis/
 
 ---
 
-## 👨‍💻 Author
-
-Ram (AI & Data Science Student)
-
----
 
 ## ⭐ If you like this project
 
